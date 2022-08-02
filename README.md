@@ -20,8 +20,8 @@
   <div align="center">
   <img src="https://media.giphy.com/media/uv24GbALNbkLoxqzGp/giphy.gif" width="600" height="300"/>
   </div>
+    <div align="left">
   # :man_technologist: About Me :
-  
   I am a Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30">
-
-
+  
+  </div>
