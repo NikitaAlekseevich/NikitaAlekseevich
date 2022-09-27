@@ -15,5 +15,5 @@
   </div>
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikitaAlekseevich&theme=python-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NikitaAlekseevich&theme=windows-dark)](https://git.io/streak-stats)
 
