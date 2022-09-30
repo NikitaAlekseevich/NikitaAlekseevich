@@ -15,5 +15,5 @@
   </div>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=NikitaAlekseevich&theme=windows-dark)](https://git.io/streak-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaAlekseevich&show_icons=true&theme=midnight-purple)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NikitaAlekseevich&theme=midnight-purple)](https://git.io/streak-stats)
