@@ -16,4 +16,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NikitaAlekseevich&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NikitaAlekseevich&theme=midnight-purple	)](https://git.io/streak-stats)
