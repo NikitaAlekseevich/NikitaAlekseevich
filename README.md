@@ -17,3 +17,5 @@
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NikitaAlekseevich&theme=buefy	)](https://git.io/streak-stats)
+
+.
